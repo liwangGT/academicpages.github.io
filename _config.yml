@@ -81,7 +81,7 @@ author:
   name             : "Li Wang"
   avatar           : "li.png"
   bio              : "Ph.D. candidate in Georgia Institue of Technology"
-  location         : "Location"
+  location         : #"Location"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=8V_GaUoAAAAJ&hl=en"
   email            :
@@ -92,13 +92,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "liwangGT"
+  github           : #"liwangGT"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/0000-0002-8530-3769"
+  orcid            : #"http://orcid.org/0000-0002-8530-3769"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
