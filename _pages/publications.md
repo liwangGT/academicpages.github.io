@@ -6,14 +6,12 @@ author_profile: true
 ---
 A. Peer-reviewed Journal Papers
 ======
-A1. L. Wang, A. Ames, and M. Egerstedt, “Super-Ellipsoidal Barrier Certificates for Safe Maneuvers in Teams of Quadro-
-tors”, IEEE Transactions on Robotics (T-RO), under review.
+A1. L. Wang, A. Ames, and M. Egerstedt, “Super-Ellipsoidal Barrier Certificates for Safe Maneuvers in Teams of Quadrotors”, IEEE Transactions on Robotics (T-RO), under review.
 
 A2. L. Wang, A. Ames, and M. Egerstedt, “Safety Barrier Certificates for Collisions-Free Multi-robot Systems”, IEEE
 Transactions on Robotics (T-RO), vol. 33, no. 3, pp. 661-674, 2017.
 
-A3. F. Peng, J. Ma, L. Wang, R. Yan and B. Li, “Post-processing Algorithm Based on Total Differential Method for
-Multi-axis Machine Tools with Arbitrary Configuration”, Chinese Journal of Mechanical Engineering, vol. 48, no. 13, pp.
+A3. F. Peng, J. Ma, L. Wang, R. Yan and B. Li, “Post-processing Algorithm Based on Total Differential Method for Multi-axis Machine Tools with Arbitrary Configuration”, Chinese Journal of Mechanical Engineering, vol. 48, no. 13, pp.
 121-127, 2012.
 
 B. Peer-reviewed Conference Papers
@@ -24,9 +22,7 @@ IEEE International Conference on Robotics and Automation (ICRA), 2018, under rev
 B2. L. Wang, A. Ames, and M. Egerstedt, “Safe Certificate-Based Maneuvers for Teams of Quadrotors Using Differential
 Flatness”, IEEE International Conference on Robotics and Automation (ICRA), pp. 3293-3298, 2017.
 
-B3. D. Pickem, P. Glotfelter, L. Wang, M. Mote, A. Ames, E. Feron, and M. Egerstedt, “The Robotarium: A Remotely
-Accessible Swarm Robotics Research Testbed”, IEEE International Conference on Robotics and Automation (ICRA), Best
-Multi-Robot Systems Paper Award, pp. 1699-1706, 2017.
+B3. D. Pickem, P. Glotfelter, L. Wang, M. Mote, A. Ames, E. Feron, and M. Egerstedt, “The Robotarium: A Remotely Accessible Swarm Robotics Research Testbed”, IEEE International Conference on Robotics and Automation (ICRA), <b> Best Multi-Robot Systems Paper Award </b>, <b> Best Conference Paper Award Finalist </b>, pp. 1699-1706, 2017.
 
 B4. L. Wang, D. Han, and M. Egerstedt, “Permissive Barrier Certificates for Safe Stabilization Using Sum-of-squares”,
 2018 American Control Conference (ACC), under review.
