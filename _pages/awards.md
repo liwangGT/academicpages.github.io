@@ -9,9 +9,12 @@ author_profile: true
 
 E1. Best Multi-Robot Paper Award: Best Multi-Robot Systems Paper Award at top Robotics conference ICRA 2017
 
+<img src="/images/media1.png" alt="IEEE" style="width:600px;height:360px;">
+
 E2. Jenny H. Krauss Fellowship: Awarded to top Georgia Tech graduate students with excellent academic record
 
 E3. Top winner of BlueCompetition: A worldwide competition sponsored by BlueSens Gas Sensor GmbH(Germany)
+<img src="/images/blueAward.png" alt="IEEE" style="width:600px;height:360px;">
 
 E4. Chinese National Scholarship: Awarded to top 2% college students by the Chinese Ministry of Education
 
