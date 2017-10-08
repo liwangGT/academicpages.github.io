@@ -10,25 +10,22 @@ author_profile: true
 To be added...
 
 <p>Robotarium air ground</p>
-<iframe width="420" height="315" src="https://www.youtube.com/embed/fUp5gY6u_w4?rel=0" frameborder="0" allowfullscreen></iframe>
+<iframe style="overflow:hidden;height:70%;width:70%" width="420" height="315" src="https://www.youtube.com/embed/fUp5gY6u_w4?rel=0" frameborder="0" allowfullscreen></iframe>
 
 <p>Robotarium GT</p>
-<iframe width="400" height="260" src="https://www.youtube.com/embed/C2c2l6Ew7bo?rel=0" frameborder="0" allowfullscreen></iframe>
+<iframe style="overflow:hidden;height:80%;width:80%" width="400" height="260" src="https://www.youtube.com/embed/C2c2l6Ew7bo?rel=0" frameborder="0" allowfullscreen></iframe>
 
 <p>Segway</p>
-<iframe width="400" height="240" src="https://www.youtube.com/embed/YUqkbgV1m_Y?rel=0" frameborder="0" allowfullscreen></iframe>
+<iframe style="overflow:hidden;height:60%;width:60%" width="400" height="240" src="https://www.youtube.com/embed/YUqkbgV1m_Y?rel=0" frameborder="0" allowfullscreen></iframe>
 
 <p>Coverage Control using Robotic Swarm and iPad Input</p>
-<iframe width="450" height="250" src="https://www.youtube.com/embed/oy21AK5WYPc?rel=0&amp;start=6" frameborder="0" allowfullscreen></iframe>
+<iframe style="overflow:hidden;height:70%;width:70%" width="450" height="250" src="https://www.youtube.com/embed/oy21AK5WYPc?rel=0&amp;start=6" frameborder="0" allowfullscreen></iframe>
 
 <p>Reconfigure</p>
-<iframe  style="overflow:hidden;height:50%;width:50%" width="450" height="260" src="https://www.youtube.com/embed/VvYAvFBKqos?rel=0" frameborder="0" allowfullscreen></iframe>
+<iframe  style="overflow:hidden;height:70%;width:70%" width="450" height="260" src="https://www.youtube.com/embed/VvYAvFBKqos?rel=0" frameborder="0" allowfullscreen></iframe>
 
 <p>plan40</p>
-<iframe style="overflow:hidden;height:60%;width:60%" width="560" height="315" src="https://www.youtube.com/embed/UnAYDufm5xY?ecver=1" frameborder="0" allowfullscreen></iframe>
-
-<embed src="https://www.youtube.com/embed/UnAYDufm5xY?ecver=1"
-autostart="true" width="160" height="160" />
+<iframe style="overflow:hidden;height:70%;width:70%" width="560" height="315" src="https://www.youtube.com/embed/UnAYDufm5xY?ecver=1" frameborder="0" allowfullscreen></iframe>
 
 <!--
 <embed src="http://itls.saisd.net/km/uploads/videos/SLinterview.flv"
