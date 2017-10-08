@@ -27,10 +27,16 @@ To be added...
 <p>plan40</p>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/UnAYDufm5xY?ecver=1" frameborder="0" allowfullscreen></iframe>
 
+<embed src="https://www.youtube.com/embed/UnAYDufm5xY?ecver=1"
+autostart="true" width="160" height="160" />
 
+<!--
+<embed src="http://itls.saisd.net/km/uploads/videos/SLinterview.flv"
+autostart="true" width="160" height="160" />
+-->
 
-#Segway, sim
-#https://www.youtube.com/watch?v=duuHsBLSbz8
-
+<!-- Segway, sim
+https://www.youtube.com/watch?v=duuHsBLSbz8
+-->
 
 
