@@ -20,10 +20,10 @@ Work experience
 * 2014 - present: Graduate Research Assistant, Georgia Institute of Technology, US
   * Topic: Safety Control Certificates for Multi-robot Systems
   * Advisor: Magnus Egerstedt
-  * Developed safety control certificates to ensure safe aggressive maneuvers of multi-quadrotor and mobile robot swarms.
-  * Implemented safety certificates on teams of quadrotors and robots with Robot Operating System (ROS) (C++, Python).
+  * Developed safety control certificates for safe aggressive maneuvers of multi-quadrotor and mobile robot swarms.
+  * Implemented safety certificates on teams of quadrotors/robots with Robot Operating System (ROS) (C++, Python).
   * Built a multi-robot test-bed consisting of mobile robots, quadrotors and Optitrack motion capture system.
-  * Enabled real-time communication and control of multi-robot systems as well as interactions with joystick and Iphone.
+  * Enabled real-time communication and control of multi-robot systems, and interactions with joystick and Iphone.
 
 * Summer 2017: Research Intern, Siemens Corporate Technology, US
   * Project: Planning and Scheduling of Flexible Manufacturing Systems
@@ -35,20 +35,20 @@ Work experience
   * Project: Software Development for Plasma-based Optical Fiber Manufacturing Process
   * Advisor: David Braganza
   * Worked on hardware&software integration for Siemens PLC, HMI, RF power circuit, and other periphery devices.
-  * Developed software for manufacturing recipe optimization and automation in multi-programming language environment.
+  * Developed software for manufacturing recipe optimization and automation with multi-programming language.
   
 * 2012 - 2014: Graduate Research Assistant, Clemson University, US
   * Topic: Minimal Knowledge Controller for Bio-reactor
   * Advisor: Richard Groff
-  * Developed and implemented bioreactor OTR signal estimation and tracking, conducted signal filtering and processing
+  * Developed and implemented bioreactor OTR signal online tracking, conducted signal filtering and processing
   * Implemented bioreactor real-time data acquisition system with xPC-target, OPC, UDP and serial communication
   * Developed Matlab GUI for fermentation process control and monitoring, data logging and dynamic graph display
   
 * 2013 & 2015: Lab Teaching Assistant, Georgia Tech/Clemson University, US
   * Project: Mechantronic System lab, Electronics Lab
   * Advisor: Allen Robinson, John Wagner
-  * Taught signal acquisition, processing and analysis with transistor circuit, oscilloscope, signal generator and multi-meter.
-  * Gave lectures in mechantronic system labs covering PLC programming, Labview data sampling, and CNC operation
+  * Taught signal acquisition, processing and analysis with transistor circuit, oscilloscope, and signal generator.
+  * Gave lectures in mechantronic labs covering PLC programming, Labview data sampling, and CNC operation
   
 * Summer 2011: Research Intern, DEPUSH Robotic Education Technology, China
   * Project: Educational reconfigurable mechantronical platform
@@ -60,4 +60,4 @@ Work experience
   * Advisor: Fangyu Peng
   * Used CAD/CAM software for mechanical components modeling and tool cutting path generation and optimization
   * Modeled the kinematics of multi-axis machine tools and developed algorithms for tool path post-processing
-  * Wrote proposal for geometric error compensation and got approved by the Chinese ministry of education with grants
+  * Wrote proposal for geometric error compensation and got grants from the Chinese ministry of education
