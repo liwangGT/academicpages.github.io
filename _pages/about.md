@@ -14,5 +14,5 @@ My research interest includes: Control theory and robotics, machine learning, Ro
 
 Contact: liwang@gatech.edu
 
-<img src="/images/Spiral_safely.jpg" alt="Mountain View picture" style="width:600px;height:360px;">
+<img src="/images/Spiral_safely.jpg" alt="Mountain View picture" style="width:500px;height:300px;">
 

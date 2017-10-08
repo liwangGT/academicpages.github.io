@@ -1,8 +1,11 @@
 # main links links
 main:
 
-  - title: "Projects"
+  - title: "Research"
     url: /test.html
+
+  - title: "Projects"
+    url: /projects/
 
   - title: "Experience"
     url: /cv/
