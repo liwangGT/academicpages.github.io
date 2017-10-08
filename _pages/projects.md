@@ -22,10 +22,10 @@ To be added...
 <iframe width="450" height="250" src="https://www.youtube.com/embed/oy21AK5WYPc?rel=0&amp;start=6" frameborder="0" allowfullscreen></iframe>
 
 <p>Reconfigure</p>
-<iframe  style="overflow:hidden;height:50%;width:50%" width="450" height="260" src="https://www.youtube.com/embed/VvYAvFBKqos?rel=0" frameborder="0" allowfullscreen></iframe>
+<iframe  style="overflow:hidden;height:300%;width:300%" width="450" height="260" src="https://www.youtube.com/embed/VvYAvFBKqos?rel=0" frameborder="0" allowfullscreen></iframe>
 
 <p>plan40</p>
-<iframe style="overflow:hidden;height:60%;width:60%" width="560" height="315" src="https://www.youtube.com/embed/UnAYDufm5xY?ecver=1" frameborder="0" allowfullscreen></iframe>
+<iframe style="overflow:hidden;height:200%;width:200%" width="560" height="315" src="https://www.youtube.com/embed/UnAYDufm5xY?ecver=1" frameborder="0" allowfullscreen></iframe>
 
 <embed src="https://www.youtube.com/embed/UnAYDufm5xY?ecver=1"
 autostart="true" width="160" height="160" />
