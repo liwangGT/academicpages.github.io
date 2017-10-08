@@ -22,7 +22,7 @@ Work experience
   * Topic: Safety Control Certificates for Multi-robot Systems
   * Advisor: Magnus Egerstedt
   * Developed safety control certificates for safe aggressive maneuvers of multi-quadrotor and mobile robot swarms.
-  * Implemented safety certificates on teams of quadrotors/robots with Robot Operating System (ROS) (C++, Python).
+  * Implemented safety certificates on teams of quadrotors/robots with Robot Operating System (ROS)
   * Built a multi-robot test-bed consisting of mobile robots, quadrotors and Optitrack motion capture system.
   * Enabled real-time communication and control of multi-robot systems, and interactions with joystick and Iphone.
 
