@@ -9,7 +9,7 @@ author_profile: true
 
 E1. IEEE International Conference on Robotics and Automation (ICRA) 2017,  Best Multi-Robot Systems Paper Award, Best Conference Paper Award Finalist
 
-<img src="/images/robotarium1.png" alt="IEEE" style="width:600px;height:360px;">
+<img src="/images/robotarium1.jpg" alt="IEEE" style="width:600px;height:360px;">
 
 E2. Jenny H. Krauss Fellowship 2014: Awarded to top Georgia Tech graduate students with excellent academic record
 
