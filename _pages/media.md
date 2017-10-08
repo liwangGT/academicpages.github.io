@@ -7,10 +7,15 @@ author_profile: true
 
 {% include base_path %}
 
-D1. IEEE spectrum, “Swarms of Robots Manage to Not Run Into Each Other”, Web link
+D1. IEEE spectrum, “[Swarms of Robots Manage to Not Run Into Each Other](https://spectrum.ieee.org/automaton/robotics/robotics-software/swarms-of-robots-manage-to-not-run-into-each-other?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+IeeeSpectrum+(IEEE+Spectrum)”
 
-D2. Engadget, “Virtual ’top hats’ ensure swarming drones won’t crash”, Web link
 
-D3. Robohub, “The Robotarium: A remotely accessible swarm robotics research testbed”, Web link
 
-D4. Digital trends, “This swarm of drones uses virtual force fields to avoid crashing into each other”, Web link
+D2. Engadget, “[Virtual ’top hats’ ensure swarming drones won’t crash](https://www.engadget.com/2017/05/15/virtual-top-hats-drone-crash/)”
+
+
+D3. Robohub, “[The Robotarium: A remotely accessible swarm robotics research testbed](http://robohub.org/the-robotarium-a-remotely-accessible-swarm-robotics-research-testbed/)”
+
+
+D4. Digital trends, “[This swarm of drones uses virtual force fields to avoid crashing into each other](
+https://www.digitaltrends.com/cool-tech/swarm-drones-virtual-forcefield/)”
