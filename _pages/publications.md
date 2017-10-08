@@ -22,7 +22,7 @@ IEEE International Conference on Robotics and Automation (ICRA), 2018, under rev
 B2. L. Wang, A. Ames, and M. Egerstedt, “Safe Certificate-Based Maneuvers for Teams of Quadrotors Using Differential
 Flatness”, IEEE International Conference on Robotics and Automation (ICRA), pp. 3293-3298, 2017.
 
-B3. D. Pickem, P. Glotfelter, L. Wang, M. Mote, A. Ames, E. Feron, and M. Egerstedt, “The Robotarium: A Remotely Accessible Swarm Robotics Research Testbed”, IEEE International Conference on Robotics and Automation (ICRA), <b> Best Multi-Robot Systems Paper Award </b>, <b> Best Conference Paper Award Finalist </b>, pp. 1699-1706, 2017.
+B3. D. Pickem, P. Glotfelter, L. Wang, M. Mote, A. Ames, E. Feron, and M. Egerstedt, “The Robotarium: A Remotely Accessible Swarm Robotics Research Testbed”, IEEE International Conference on Robotics and Automation (ICRA), <b> Best Multi-Robot Systems Paper Award</b>, <b> Best Conference Paper Award Finalist</b>, pp. 1699-1706, 2017.
 
 B4. L. Wang, D. Han, and M. Egerstedt, “Permissive Barrier Certificates for Safe Stabilization Using Sum-of-squares”,
 2018 American Control Conference (ACC), under review.

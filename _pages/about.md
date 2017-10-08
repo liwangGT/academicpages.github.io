@@ -13,3 +13,6 @@ I am a Ph.D. candidate (expected to graduate 2018 May) in Electrical and Compute
 My research interest includes: Control theory and robotics, machine learning, Robot Operating System, quadrotor motion planning and control, multi-robot system, signal filtering and estimation, digital signal processing, linear and nonlinear control, adaptive control, bio-process control.
 
 Contact: liwang@gatech.edu
+
+<img src="/image/Spiral_safely.jpg" alt="Mountain View" style="width:304px;height:228px;">
+
