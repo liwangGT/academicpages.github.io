@@ -9,26 +9,28 @@ author_profile: true
 
 To be added...
 
+<p>Robotarium air ground</p>
+<iframe width="500" height="300" src="https://www.youtube.com/watch?v=fUp5gY6u_w4" frameborder="0" allowfullscreen></iframe>
 
-Learning wind
-https://www.youtube.com/watch?v=ExiaoUDiKFQ
+<p>Robotarium GT</p>
+<iframe width="500" height="300" src="https://www.youtube.com/watch?v=C2c2l6Ew7bo" frameborder="0" allowfullscreen></iframe>
 
-Coverage Control using Robotic Swarm and iPad Input
-https://www.youtube.com/watch?v=oy21AK5WYPc
+<p>Segway</p>
+<iframe width="500" height="300" src="https://www.youtube.com/watch?v=YUqkbgV1m_Y" frameborder="0" allowfullscreen></iframe>
 
-Robotarium GT
-https://www.youtube.com/watch?v=C2c2l6Ew7bo
+<p>Coverage Control using Robotic Swarm and iPad Input</p>
+<iframe width="500" height="300" src="https://www.youtube.com/watch?v=oy21AK5WYPc" frameborder="0" allowfullscreen></iframe>
 
-Robotarium air ground
-https://www.youtube.com/watch?v=fUp5gY6u_w4
+<p>Reconfigure</p>
+<iframe width="500" height="300" src="https://www.youtube.com/watch?v=VvYAvFBKqos&t=14s" frameborder="0" allowfullscreen></iframe>
 
-Segway
-https://www.youtube.com/watch?v=YUqkbgV1m_Y
+<p>First video</p>
+<iframe width="500" height="300" src="https://www.youtube.com/embed/pmZZzIXIIsc" frameborder="0" allowfullscreen></iframe>
 
-Segway, sim
-https://www.youtube.com/watch?v=duuHsBLSbz8
 
-Reconfigure
-https://www.youtube.com/watch?v=VvYAvFBKqos&t=14s
+
+#Segway, sim
+#https://www.youtube.com/watch?v=duuHsBLSbz8
+
 
 
