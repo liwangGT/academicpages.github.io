@@ -16,5 +16,5 @@ Contact: liwang@gatech.edu
 
 <img src='/images/500x300.png'>
 
-<img src="/images/Spiral_safely.jpg" alt="Mountain View" style="width:304px;height:228px;">
+<img src="/images/Spiral_safely.jpg" alt="Mountain View picture" style="width:304px;height:228px;">
 
