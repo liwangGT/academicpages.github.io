@@ -2,7 +2,7 @@
 main:
 
   - title: "Projects"
-    url: /projects/
+    url: /test.html
 
   - title: "Experience"
     url: /cv/
@@ -16,5 +16,3 @@ main:
   - title: "Awards"
     url: /awards/
 
-  - title: "Test1"
-    url: /test.html
