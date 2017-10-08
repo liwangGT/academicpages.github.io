@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
+A detailed CV can be obtained [here](http://liwanggt.github.io/files/Li_Wang_Georgia_Tech.pdf).
 
 Education
 ======
