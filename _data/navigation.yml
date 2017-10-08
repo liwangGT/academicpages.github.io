@@ -16,5 +16,5 @@ main:
   - title: "Awards"
     url: /awards/
 
-  - title: "Test"
-    url: /test/
+  - title: "Test1"
+    url: /test.html
