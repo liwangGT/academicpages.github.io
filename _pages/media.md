@@ -10,7 +10,6 @@ author_profile: true
 D1. IEEE spectrum, “[Swarms of Robots Manage to Not Run Into Each Other](https://spectrum.ieee.org/automaton/robotics/robotics-software/swarms-of-robots-manage-to-not-run-into-each-other?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+IeeeSpectrum+(IEEE+Spectrum)”
 
 
-
 D2. Engadget, “[Virtual ’top hats’ ensure swarming drones won’t crash](https://www.engadget.com/2017/05/15/virtual-top-hats-drone-crash/)”
 
 
