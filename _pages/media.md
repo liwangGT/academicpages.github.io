@@ -13,11 +13,11 @@ D1. IEEE spectrum, “[Swarms of Robots Manage to Not Run Into Each Other](https
 
 D2. Engadget, “[Virtual ’top hats’ ensure swarming drones won’t crash](https://www.engadget.com/2017/05/15/virtual-top-hats-drone-crash/)”
 
-[<img src="/images/media2.png" alt="Engadget" style="width:500px;height:200px;">](https://www.engadget.com/2017/05/15/virtual-top-hats-drone-crash/)
+[<img src="/images/Spiral_safely.jpg" alt="Engadget" style="width:500px;height:200px;">](https://www.engadget.com/2017/05/15/virtual-top-hats-drone-crash/)
 
 D3. Robohub, “[The Robotarium: A remotely accessible swarm robotics research testbed](http://robohub.org/the-robotarium-a-remotely-accessible-swarm-robotics-research-testbed/)”
 
-[<img src="/images/media3.png" alt="Robohub" style="width:500px;height:200px;">](http://robohub.org/the-robotarium-a-remotely-accessible-swarm-robotics-research-testbed/)
+[<img src="/images/robo30.png.png" alt="Robohub" style="width:500px;height:200px;">](http://robohub.org/the-robotarium-a-remotely-accessible-swarm-robotics-research-testbed/)
 
 D4. Digital trends, “[This swarm of drones uses virtual force fields to avoid crashing into each other](
 https://www.digitaltrends.com/cool-tech/swarm-drones-virtual-forcefield/)”
