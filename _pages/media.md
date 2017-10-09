@@ -17,7 +17,7 @@ D2. Engadget, “[Virtual ’top hats’ ensure swarming drones won’t crash](h
 
 D3. Robohub, “[The Robotarium: A remotely accessible swarm robotics research testbed](http://robohub.org/the-robotarium-a-remotely-accessible-swarm-robotics-research-testbed/)”
 
-[<img src="/images/robo30.png.png" alt="Robohub" style="width:500px;height:200px;">](http://robohub.org/the-robotarium-a-remotely-accessible-swarm-robotics-research-testbed/)
+[<img src="/images/robo30.png" alt="Robohub" style="width:500px;height:200px;">](http://robohub.org/the-robotarium-a-remotely-accessible-swarm-robotics-research-testbed/)
 
 D4. Digital trends, “[This swarm of drones uses virtual force fields to avoid crashing into each other](
 https://www.digitaltrends.com/cool-tech/swarm-drones-virtual-forcefield/)”
