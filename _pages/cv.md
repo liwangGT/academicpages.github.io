@@ -29,7 +29,7 @@ Work experience
 * Summer 2017: Research Intern, Siemens Corporate Technology, US
   * Project: Planning and Scheduling of Flexible Manufacturing Systems
   * Advisor: Ulrich Muenz
-  * Developed Model Predictive Control based planning and scheduling algorithm for flexible manufacturing systems.
+  * Developed MPC graph-based planning and scheduling algorithm for flexible manufacturing systems.
   * Implemented the MPC graph-based planner in C++ and interfaced with Siemens Tecnomatix plant simulator.
 
 * Summer 2014: Research Intern, OFS Fitel LLC, US
