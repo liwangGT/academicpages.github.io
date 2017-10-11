@@ -1,4 +1,4 @@
-This is my personal webpage adapted from academic websites, which is © 2016 Michael Rose and released under the MIT License. See LICENSE.md.
+This is my personal webpage adapted from academic websites, which is © 2016 Michael Rose and released under the MIT License. See LICENSE.md
 
 See more info at https://academicpages.github.io/
 
