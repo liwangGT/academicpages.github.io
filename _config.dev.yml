@@ -3,7 +3,7 @@
 url: http://localhost:4000
 
 analytics:
-  provider: "google-universal"
+  provider: "google"
   google:
     tracking_id: "UA-108011282-1"
 
