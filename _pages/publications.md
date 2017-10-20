@@ -8,21 +8,17 @@ A. Peer-reviewed Journal Papers
 ======
 A1. L. Wang, A. Ames, and M. Egerstedt, “Super-Ellipsoidal Barrier Certificates for Safe Maneuvers in Teams of Quadrotors”, IEEE Transactions on Robotics (T-RO), under review.
 
-A2. L. Wang, A. Ames, and M. Egerstedt, “Safety Barrier Certificates for Collisions-Free Multi-robot Systems”, IEEE
-Transactions on Robotics (T-RO), vol. 33, no. 3, pp. 661-674, 2017.
+A2. L. Wang, A. Ames, and M. Egerstedt, “Safety Barrier Certificates for Collisions-Free Multi-robot Systems”, IEEE Transactions on Robotics (T-RO), vol. 33, no. 3, pp. 661-674, 2017. [<b>PDF</b>](http://liwanggt.github.io/files/A2_Safe_Swarm.pdf)
 
-A3. F. Peng, J. Ma, L. Wang, R. Yan and B. Li, “Post-processing Algorithm Based on Total Differential Method for Multi-axis Machine Tools with Arbitrary Configuration”, Chinese Journal of Mechanical Engineering, vol. 48, no. 13, pp.
-121-127, 2012.
+A3. F. Peng, J. Ma, L. Wang, R. Yan and B. Li, “Post-processing Algorithm Based on Total Differential Method for Multi-axis Machine Tools with Arbitrary Configuration”, Chinese Journal of Mechanical Engineering, vol. 48, no. 13, pp. 121-127, 2012. [PDF](http://liwanggt.github.io/files/A3_Multi_axis_Machine.pdf)
 
 B. Peer-reviewed Conference Papers
 ======
-B1. L. Wang, E. A. Theodorou, and M. Egerstedt, “Safe Learning of Quadrotor Dynamics Using Barrier Certificates”,
-IEEE International Conference on Robotics and Automation (ICRA), 2018, under review.
+B1. L. Wang, E. A. Theodorou, and M. Egerstedt, “Safe Learning of Quadrotor Dynamics Using Barrier Certificates”, IEEE International Conference on Robotics and Automation (ICRA), 2018, under review. [<b>PDF</b>](http://liwanggt.github.io/files/B1_Safe_learning.pdf)
 
-B2. L. Wang, A. Ames, and M. Egerstedt, “Safe Certificate-Based Maneuvers for Teams of Quadrotors Using Differential
-Flatness”, IEEE International Conference on Robotics and Automation (ICRA), pp. 3293-3298, 2017.
+B2. L. Wang, A. Ames, and M. Egerstedt, “Safe Certificate-Based Maneuvers for Teams of Quadrotors Using Differential Flatness”, IEEE International Conference on Robotics and Automation (ICRA), pp. 3293-3298, 2017. [<b>PDF</b>](http://liwanggt.github.io/files/B2_Quads_barrier.pdf)
 
-B3. D. Pickem, P. Glotfelter, L. Wang, M. Mote, A. Ames, E. Feron, and M. Egerstedt, “The Robotarium: A Remotely Accessible Swarm Robotics Research Testbed”, IEEE International Conference on Robotics and Automation (ICRA), <b> Best Multi-Robot Systems Paper Award</b>, <b> Best Conference Paper Award Finalist</b>, pp. 1699-1706, 2017.
+B3. D. Pickem, P. Glotfelter, L. Wang, M. Mote, A. Ames, E. Feron, and M. Egerstedt, “The Robotarium: A Remotely Accessible Swarm Robotics Research Testbed”, IEEE International Conference on Robotics and Automation (ICRA), <b> Best Multi-Robot Systems Paper Award</b>, <b> Best Conference Paper Award Finalist</b>, pp. 1699-1706, 2017. [<b>PDF</b>](http://liwanggt.github.io/files/B3_Robotarium.pdf)
 
 B4. L. Wang, D. Han, and M. Egerstedt, “Permissive Barrier Certificates for Safe Stabilization Using Sum-of-squares”,
 2018 American Control Conference (ACC), under review.
