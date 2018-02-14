@@ -38,7 +38,7 @@ My current and past projects leverage the tools from control theory, robotics, m
 * Implemented bioreactor real-time sensor data acquisition system with xPC-target, OPC server, UDP and serial comunication. Developed Matlab GUI for fermentation process control, data logging and dynamic graph display.
 
 
-<p>P9. Reconfigure mechantronic system: 3D warehouse and XY plotter</p>
+<p>P9. Reconfigure mechantronic system: 3D warehouse and XY plotter (with Fengjin Chai, Yiming Wu, Xinyan Zhao, and Patrick Scott)</p>
 <iframe  style="overflow:hidden;height:70%;width:70%" width="450" height="260" src="https://www.youtube.com/embed/VvYAvFBKqos?rel=0" frameborder="0" allowfullscreen></iframe>
 
 
