@@ -14,13 +14,14 @@ A3. F. Peng, J. Ma, L. Wang, R. Yan and B. Li, “Post-processing Algorithm Base
 
 B. Peer-reviewed Conference Papers
 ======
-B1. L. Wang, E. A. Theodorou, and M. Egerstedt, “Safe Learning of Quadrotor Dynamics Using Barrier Certificates”, IEEE International Conference on Robotics and Automation (ICRA), 2018, accepted. [<b>PDF</b>](http://liwanggt.github.io/files/B1_Safe_learning.pdf)
+B1. L. Wang, E. A. Theodorou, and M. Egerstedt, “Safe Learning of Quadrotor Dynamics Using Barrier Certificates”, IEEE International Conference on Robotics and Automation (ICRA), 2018, to appear. [<b>PDF</b>](http://liwanggt.github.io/files/B1_Safe_learning.pdf)
 
 B2. L. Wang, A. Ames, and M. Egerstedt, “Safe Certificate-Based Maneuvers for Teams of Quadrotors Using Differential Flatness”, IEEE International Conference on Robotics and Automation (ICRA), pp. 3293-3298, 2017. [<b>PDF</b>](http://liwanggt.github.io/files/B2_Quads_barrier.pdf)
 
 B3. D. Pickem, P. Glotfelter, L. Wang, M. Mote, A. Ames, E. Feron, and M. Egerstedt, “The Robotarium: A Remotely Accessible Swarm Robotics Research Testbed”, IEEE International Conference on Robotics and Automation (ICRA), <b> Best Multi-Robot Systems Paper Award</b>, <b> Best Conference Paper Award Finalist</b>, pp. 1699-1706, 2017. [<b>PDF</b>](http://liwanggt.github.io/files/B3_Robotarium.pdf)
 
-B4. L. Wang, D. Han, and M. Egerstedt, “Permissive Barrier Certificates for Safe Stabilization Using Sum-of-squares”, 2018 American Control Conference (ACC), accepted.
+B4. L. Wang, D. Han, and M. Egerstedt, “Permissive Barrier Certificates for Safe Stabilization Using Sum-of-squares”, 2018 American Control Conference (ACC), to appear. [<b>PDF</b>](http://liwanggt.github.io/files/B4_SOS.pdf)
+
 
 B5. L. Wang, A. Ames, and M. Egerstedt, “Multi-objective Compositions for Collision-free Connectivity Maintenance in Teams of Mobile Robots”, 2016 Decisions and Control Conference (CDC), pp. 2659-2664, Dec. 2016. [<b>PDF</b>](http://liwanggt.github.io/files/B5_Composable_Barrier.pdf)
 
