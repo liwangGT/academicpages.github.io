@@ -10,7 +10,10 @@ A1. L. Wang, A. Ames, and M. Egerstedt, “Super-Ellipsoidal Barrier Certificate
 
 A2. L. Wang, A. Ames, and M. Egerstedt, “Safety Barrier Certificates for Collisions-Free Multi-robot Systems”, IEEE Transactions on Robotics (T-RO), vol. 33, no. 3, pp. 661-674, 2017. [<b>PDF</b>](http://liwanggt.github.io/files/A2_Safe_Swarm.pdf)
 
-A3. F. Peng, J. Ma, L. Wang, R. Yan and B. Li, “Post-processing Algorithm Based on Total Differential Method for Multi-axis Machine Tools with Arbitrary Configuration”, Chinese Journal of Mechanical Engineering, vol. 48, no. 13, pp. 121-127, 2012. [<b>PDF</b>](http://liwanggt.github.io/files/A3_Multi_axis_Machine.pdf)
+A3. M. Ohnishi, L. Wang, G. Notomista, and M. Egerstedt, “Safety-aware Adaptive Reinforcement Learning with Applications to Brushbot Navigation”, IEEE Transactions on Robotics (T-RO), under review. [<b>PDF</b>](http://liwanggt.github.io/files/Safety_Aware_Adaptive_RL.pdf)
+
+
+A4. F. Peng, J. Ma, L. Wang, R. Yan and B. Li, “Post-processing Algorithm Based on Total Differential Method for Multi-axis Machine Tools with Arbitrary Configuration”, Chinese Journal of Mechanical Engineering, vol. 48, no. 13, pp. 121-127, 2012. [<b>PDF</b>](http://liwanggt.github.io/files/A3_Multi_axis_Machine.pdf)
 
 B. Peer-reviewed Conference Papers
 ======
