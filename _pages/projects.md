@@ -16,7 +16,7 @@ My current and past projects leverage the tools from control theory, robotics, m
 <iframe style="overflow:hidden;height:70%;width:70%" width="400" height="260" src="https://www.youtube.com/embed/C2c2l6Ew7bo?rel=0" frameborder="0" allowfullscreen></iframe>
 
 <p>P3. Safety-aware Adaptive Learning for Brushbot Navigation (with Motoya Ohnishi and Gennaro Notomista)</p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qXgHrrCcftM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="400" height="260" src="https://www.youtube.com/embed/qXgHrrCcftM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 <p>P4. Graph-based reactive scheduling for 40 machines and 240 products (with Siemens Corporate Technology)</p>
 <iframe style="overflow:hidden;height:70%;width:70%" width="560" height="315" src="https://www.youtube.com/embed/UnAYDufm5xY?ecver=1" frameborder="0" allowfullscreen></iframe>
