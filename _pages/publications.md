@@ -19,7 +19,7 @@ B. Peer-reviewed Conference Papers
 ======
 B1. L. Wang, E. A. Theodorou, and M. Egerstedt, “Safe Learning of Quadrotor Dynamics Using Barrier Certificates”, IEEE International Conference on Robotics and Automation (ICRA), 2018, to appear. [<b>PDF</b>](http://liwanggt.github.io/files/B1_Safe_learning.pdf)
 
-B2. A. Li, L. Wang, P. Pierpaoli, and M. Egerstedt, “Formally Correct Composition of Coordinated Behaviors Using Control Barrier Certificates”, IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2018, under review. [<b>PDF</b>](http://liwanggt.github.io/files/B1_Safe_learning.pdf)
+B2. A. Li, L. Wang, P. Pierpaoli, and M. Egerstedt, “Formally Correct Composition of Coordinated Behaviors Using Control Barrier Certificates”, IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2018, under review.
 
 B3. L. Wang, A. Ames, and M. Egerstedt, “Safe Certificate-Based Maneuvers for Teams of Quadrotors Using Differential Flatness”, IEEE International Conference on Robotics and Automation (ICRA), pp. 3293-3298, 2017. [<b>PDF</b>](http://liwanggt.github.io/files/B2_Quads_barrier.pdf)
 
