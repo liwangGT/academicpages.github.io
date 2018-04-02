@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Self-Driving Car Blog"
+title: "Self-Driving Car Learning Blog"
 permalink: /autocar/
 author_profile: true
 ---
@@ -9,7 +9,8 @@ author_profile: true
 
 [//]: # (Image References)
 
-[image1]: ./images/detection_T1P6.png "example"
+[image1]: /images/detection_T1P6.png "example"
+[image1]: /images/CNN_NVIDIA.png "example1"
 
 
 Self-driving car is an amazing technology revolution that might shape the future and impact people around the world. I am currently working on the second term of [Udacity Self-driving Car Nanodegree](https://www.udacity.com/course/self-driving-car-engineer-nanodegree--nd013). Some of the interesting projects I've done are shared in this blog. 
