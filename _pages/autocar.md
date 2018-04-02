@@ -10,7 +10,7 @@ author_profile: true
 [//]: # (Image References)
 
 [image1]: /images/detection_T1P6.png "example"
-[image1]: /images/CNN_NVIDIA.png "example1"
+[image2]: /images/CNN_NVIDIA.png "example1"
 
 
 Self-driving car is an amazing technology revolution that might shape the future and impact people around the world. I am currently working on the second term of [Udacity Self-driving Car Nanodegree](https://www.udacity.com/course/self-driving-car-engineer-nanodegree--nd013). Some of the interesting projects I've done are shared in this blog. 
@@ -25,7 +25,8 @@ Deep learning project using Keras and Tensorflow.
 
 ### Advanced lane and vehicle detection
 Advanced lane and vehicle detection project using sliding window approach and support vector machine.
-![curve][image8]
+![curve][image1]
+![curve][image2]
 
 
 [![video][image1]](https://youtu.be/tubp4DvabnQ)
