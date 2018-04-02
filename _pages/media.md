@@ -26,7 +26,7 @@ https://www.digitaltrends.com/cool-tech/swarm-drones-virtual-forcefield/)”
 https://www.digitaltrends.com/cool-tech/swarm-drones-virtual-forcefield/)
 
 
-<br><br>
+
 Selected Awards
 ======
 
