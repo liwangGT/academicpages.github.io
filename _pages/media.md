@@ -27,9 +27,9 @@ https://www.digitaltrends.com/cool-tech/swarm-drones-virtual-forcefield/)
 
 
 ---
-layout: archive
-title: "Awards"
-author_profile: true
+title: | 
+  | \vspace{5cm} \LARGE{Awards}
+  | \vspace{0.5cm} \Large{Awards}
 ---
 
 E1. IEEE International Conference on Robotics and Automation (ICRA) 2017,  Best Multi-Robot Systems Paper Award, Best Conference Paper Award Finalist
