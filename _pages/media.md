@@ -27,7 +27,6 @@ https://www.digitaltrends.com/cool-tech/swarm-drones-virtual-forcefield/)
 
 
 ---
-title: | 
   | \vspace{5cm} \LARGE{Awards}
   | \vspace{0.5cm} \Large{Awards}
 ---
