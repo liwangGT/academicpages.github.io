@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Media&Awards"
+title: "Media Coverage"
 permalink: /media/
 author_profile: true
 ---
@@ -29,7 +29,6 @@ https://www.digitaltrends.com/cool-tech/swarm-drones-virtual-forcefield/)
 ---
 layout: archive
 title: "Awards"
-permalink: /media/
 author_profile: true
 ---
 
