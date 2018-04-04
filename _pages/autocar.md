@@ -17,7 +17,7 @@ Self-driving car is an amazing technology revolution that might shape the future
 
 ---
 ### End-to-end learning for self-driving cars
-Deep learning project using Keras and Tensorflow. (TODO: combine to one figure!)
+Deep learning project using Keras and Tensorflow. (TODO: combine to one figure! click on image to see video)
 
 ![curve][image1]
 ![curve][image2]
