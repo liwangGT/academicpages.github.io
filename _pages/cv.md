@@ -16,14 +16,14 @@ Education
 * M.S. in Electrical and Computer Engineering, Clemson University, 2014
 * B.S. in Mechanical Engineering, Huazhong University of Science and Technology, 2012
 
-Peer-Reviewer for Robotics and Automation Society (RAS) and Control Systems Society (CSS)
+Peer-Reviewer for RAC and CSS
 ======
-IEEE Transactions on Robotics (T-RO)
-IEEE Transactions on Automatic Control (TAC)
-IEEE Transactions on Control of Network Systems (TCNS)
-IEEE Robotics and Automation Letters (RA-L)
-Control Systems Society conferences: CDC, ACC, ECC
-Robotics and Automation Society conferences: ICRA, IROS, CASE
+* IEEE Transactions on Robotics (T-RO) 
+* IEEE Transactions on Automatic Control (TAC)
+* IEEE Transactions on Control of Network Systems (TCNS)
+* IEEE Robotics and Automation Letters (RA-L)
+* Control Systems Society (RAS) conferences: CDC, ACC, ECC
+* Robotics and Automation Society (CSS) conferences: ICRA, IROS, CASE
 
 
 Work experience
