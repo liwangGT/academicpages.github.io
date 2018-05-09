@@ -27,3 +27,4 @@ Advanced lane and vehicle detection project using sliding window approach and su
 
 [![video][image3]](https://youtu.be/tubp4DvabnQ)
 
+### Vehicle tracking with extended/unscented Kalman filter
