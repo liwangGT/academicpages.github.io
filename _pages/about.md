@@ -8,9 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. candidate (expected to graduate 2018 May) in Electrical and Computer Engineering at the Georgia Institute of Technology, Atlanta.  I am also a member of the [Georgia Robotics and Intelligent Systems (GRITS) Lab](http://gritslab.gatech.edu/home/2015/10/safety-barrier-certificates-for-multi-robot-system/) supervised by Dr. [Magnus Egerstedt](http://magnus.ece.gatech.edu/index.html). 
-
-My research interests lie in the intersection of <b>control theory</b>, <b>robotics</b>, and <b>machine learning</b>. More specifically, my Ph.D. research focuses on the provably safe collaboration of multiple robots (quadrotors and mobile robots), and safe learning based control techniques for robotics.
+I am a Senior Autopilot Controls Engineer at Tesla. I graduated from Georgia Tech in 2018 May with a Ph.D. degree in ECE supervised by Dr. [Magnus Egerstedt](http://magnus.ece.gatech.edu/index.html). My Ph.D. research interests lie in the intersection of <b>control theory</b>, <b>robotics</b>, and <b>machine learning</b>. More specifically, my Ph.D. research focuses on the provably safe collaboration of multiple robots (quadrotors and mobile robots), and safe learning based control techniques for robotics.
 
 
 <center><img src="/images/web.JPG" alt="Mountain View picture" style="width:600px;height:360px;"></center>

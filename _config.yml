@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Li Wang / Ph.D. Candidate"
+title                    : "Li Wang / Ph.D."
 title_separator          : "-"
 name                     : &name "Li Wang"
 description              : &description "Expected to graduate in 2018 May"
@@ -80,7 +80,7 @@ analytics:
 author:
   name             : "Li Wang"
   avatar           : "li.png"
-  bio              : "Ph.D. candidate in Georgia Institue of Technology"
+  bio              : "Senior Autopilot Controls Engineer at Tesla"
   location         : #"Location"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=8V_GaUoAAAAJ&hl=en"
