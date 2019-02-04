@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-A PDF version of my CV can be obtained [<b>here</b>](http://liwanggt.github.io/files/Li_Wang_Georgia_Tech.pdf).
+A PDF version of my CV can be obtained [<b>here</b>](http://liwanggt.github.io/files/LiWang_Resume_2019.pdf).
 
 Education
 ======
