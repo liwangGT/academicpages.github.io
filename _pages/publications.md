@@ -8,13 +8,15 @@ A. Peer-reviewed Journal Papers
 ======
 A1. F. Celi, L. Wang, L. Pallottino, and M. Egerstedt, "Deconiction of Motion Paths with Trafficc Inspired Rules in Robot-Robot and Human-Robot Interactions", IEEE Robotics and Automation Letters (RA-L), accepted, 2019.
 
-A2. L. Wang, A. Ames, and M. Egerstedt, “Super-Ellipsoidal Barrier Certificates for Safe Maneuvers in Teams of Quadrotors”, IEEE Transactions on Robotics (T-RO), under review.
+A2. S. Wilson, P. Glotfelter, L. Wang, S. Mayya, G. Notomista, M. Mote, and M. Egerstedt, “The Robotarium: Globally Impactful Opportunities, Challenges, and Lessons Learned in Remote-Access, Distributed Control of Multirobot Systems”, IEEE Control Systems Magazine (CSM), vol. 40, no. 1, pp. 26-44, 2019. [<b>PDF</b>](http://liwanggt.github.io/files/Robotarium_CSM_Impact.pdf). 
 
-A3. L. Wang, A. Ames, and M. Egerstedt, “Safety Barrier Certificates for Collisions-Free Multi-robot Systems”, IEEE Transactions on Robotics (T-RO), vol. 33, no. 3, pp. 661-674, 2017. [<b>PDF</b>](http://liwanggt.github.io/files/A2_Safe_Swarm.pdf)
+A3. L. Wang, A. Ames, and M. Egerstedt, “Super-Ellipsoidal Barrier Certificates for Safe Maneuvers in Teams of Quadrotors”, IEEE Transactions on Robotics (T-RO), under review.
 
-A4. M. Ohnishi, L. Wang, G. Notomista, and M. Egerstedt, “Safety-aware Adaptive Reinforcement Learning with Applications to Brushbot Navigation”, IEEE Transactions on Robotics (T-RO), under review. [<b>PDF</b>](http://liwanggt.github.io/files/Safety_Aware_Adaptive_RL.pdf)
+A4. L. Wang, A. Ames, and M. Egerstedt, “Safety Barrier Certificates for Collisions-Free Multi-robot Systems”, IEEE Transactions on Robotics (T-RO), vol. 33, no. 3, pp. 661-674, 2017. [<b>PDF</b>](http://liwanggt.github.io/files/A2_Safe_Swarm.pdf)
 
-A5. F. Peng, J. Ma, L. Wang, R. Yan and B. Li, “Post-processing Algorithm Based on Total Differential Method for Multi-axis Machine Tools with Arbitrary Configuration”, Chinese Journal of Mechanical Engineering, vol. 48, no. 13, pp. 121-127, 2012. [<b>PDF</b>](http://liwanggt.github.io/files/A3_Multi_axis_Machine.pdf)
+A5. M. Ohnishi, L. Wang, G. Notomista, and M. Egerstedt, “Safety-aware Adaptive Reinforcement Learning with Applications to Brushbot Navigation”, IEEE Transactions on Robotics (T-RO), under review. [<b>PDF</b>](http://liwanggt.github.io/files/Safety_Aware_Adaptive_RL.pdf)
+
+A6. F. Peng, J. Ma, L. Wang, R. Yan and B. Li, “Post-processing Algorithm Based on Total Differential Method for Multi-axis Machine Tools with Arbitrary Configuration”, Chinese Journal of Mechanical Engineering, vol. 48, no. 13, pp. 121-127, 2012. [<b>PDF</b>](http://liwanggt.github.io/files/A3_Multi_axis_Machine.pdf)
 
 B. Peer-reviewed Conference Papers
 ======
