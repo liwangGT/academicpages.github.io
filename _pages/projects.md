@@ -19,7 +19,9 @@ My current and past projects leverage the tools from control theory, robotics, m
 <iframe style="overflow:hidden;height:70%;width:70%" width="400" height="260" src="https://www.youtube.com/embed/qXgHrrCcftM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 <p>P4. Graph-based reactive scheduling for 40 machines and 240 products (with Siemens Corporate Technology)</p>
-<iframe style="overflow:hidden;height:70%;width:70%" width="560" height="315" src="https://www.youtube.com/embed/UnAYDufm5xY?ecver=1" frameborder="0" allowfullscreen></iframe>
+* Developed an efficient planning algorithm for flexible manufacturing industries.
+* Combined traditional branch and bound approach to be used in a receding horizon manner by adopting the terminal cost concept from MPC.
+* The proposed algorithm is demonstrated on job shop problems of different sizes, which shows superior performance as well as scalability for large problems.
 
 <p>P5. Machine Learning in Stock Market Portfolio Optimization</p>
 * Built market simulator, technical indicators and portfolio analyser for real stock data with Python.
