@@ -80,9 +80,9 @@ analytics:
 author:
   name             : "Li Wang"
   avatar           : "li.png"
-  bio              : "Senior Autopilot Controls Engineer at Tesla"
+  bio              : "Senior Autopilot Planning and Controls Engineer at Tesla"
   location         : #"Location"
-  employer         :
+  employer         : "Tesla, CA, US"
   googlescholar    : "https://scholar.google.com/citations?user=8V_GaUoAAAAJ&hl=en"
   email            : liwang@gatech.edu
   uri              :
@@ -97,7 +97,7 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
+  linkedin         : "liwanggatech"
   orcid            : #"http://orcid.org/0000-0002-8530-3769"
   pinterest        :
   soundcloud       :
